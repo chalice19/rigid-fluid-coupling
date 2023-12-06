@@ -4,4 +4,5 @@ Implementation of the paper "Versatile Rigid-Fluid Coupling for Incompressible S
 
 ## Preview
 
-https://github.com/chalice19/rigid-fluid-coupling/assets/43400837/7f7cf3cc-af99-4a28-b9ea-60cbdb734e6a
+https://github.com/chalice19/rigid-fluid-coupling/assets/43400837/eb81583d-dd3c-4656-b291-de740e8cfaf3
+
